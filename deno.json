@@ -1,4 +1,6 @@
 {
-  "tasks": { 
-    "delta": "deno run --allow-read --allow-write delta.js" }
+  "tasks": {
+    "delta": "deno run --allow-read --allow-write delta.js",
+    "build": "pandoc -f markdown -t html -s -o delta-docs.html delta-docs.md"
+  }
 }

@@ -15,8 +15,7 @@
           "description": "A composite file containing various kinds of data about Egyptian hieroglyphs available in Unicode. (Thus does not include extended hieroglyphs.)"
         },
         "hieroglyphs": []
-      },
-      "changeHistory": []
+      }
     }
   ]
 }
