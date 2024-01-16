@@ -1,0 +1,4457 @@
+{
+  "description": "Add MdC1988 mnemonics with Nederhof modifications",
+  "changes": [
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "A12"
+      },
+      "data": {
+        "mdc": "mSa"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "A15"
+      },
+      "data": {
+        "mdc": "xr"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "A17"
+      },
+      "data": {
+        "mdc": "Xrd"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "A21"
+      },
+      "data": {
+        "mdc": "sr"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "A33"
+      },
+      "data": {
+        "mdc": "mniw"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "A38"
+      },
+      "data": {
+        "mdc": "qiz"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "A47"
+      },
+      "data": {
+        "mdc": "iry"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "A50"
+      },
+      "data": {
+        "mdc": "Sps"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "A51"
+      },
+      "data": {
+        "mdc": "Spsi"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "B3"
+      },
+      "data": {
+        "mdc": "msi"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "C3"
+      },
+      "data": {
+        "mdc": "DHwty"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "C4"
+      },
+      "data": {
+        "mdc": "Xnmw"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "C6"
+      },
+      "data": {
+        "mdc": "inpw"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "C7"
+      },
+      "data": {
+        "mdc": "stX"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "C8"
+      },
+      "data": {
+        "mdc": "mnw"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "C10"
+      },
+      "data": {
+        "mdc": "mAat"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "C11"
+      },
+      "data": {
+        "mdc": "HH"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "D1"
+      },
+      "data": {
+        "mdc": "tp"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "D2"
+      },
+      "data": {
+        "mdc": "Hr"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "D3"
+      },
+      "data": {
+        "mdc": "Sny"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "D4"
+      },
+      "data": {
+        "mdc": "ir"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "D9"
+      },
+      "data": {
+        "mdc": "rmi"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "D10"
+      },
+      "data": {
+        "mdc": "wDAt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "D19"
+      },
+      "data": {
+        "mdc": "fnD"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "D21"
+      },
+      "data": {
+        "mdc": "r"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "D21"
+      },
+      "data": {
+        "mdc": "rA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "D24"
+      },
+      "data": {
+        "mdc": "spt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "D25"
+      },
+      "data": {
+        "mdc": "spty"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "D27"
+      },
+      "data": {
+        "mdc": "mnD"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "D28"
+      },
+      "data": {
+        "mdc": "kA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "D34"
+      },
+      "data": {
+        "mdc": "aHA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "D36"
+      },
+      "data": {
+        "mdc": "a"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "D45"
+      },
+      "data": {
+        "mdc": "Dsr"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "D46"
+      },
+      "data": {
+        "mdc": "d"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "D50"
+      },
+      "data": {
+        "mdc": "Dba"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "D52"
+      },
+      "data": {
+        "mdc": "mt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "D56"
+      },
+      "data": {
+        "mdc": "rd"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "D56"
+      },
+      "data": {
+        "mdc": "sbq"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "D56"
+      },
+      "data": {
+        "mdc": "gH"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "D56"
+      },
+      "data": {
+        "mdc": "gHs"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "D58"
+      },
+      "data": {
+        "mdc": "b"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "D59"
+      },
+      "data": {
+        "mdc": "ab"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "D60"
+      },
+      "data": {
+        "mdc": "wab"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "D61"
+      },
+      "data": {
+        "mdc": "sAH"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "E6"
+      },
+      "data": {
+        "mdc": "zzmt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "E17"
+      },
+      "data": {
+        "mdc": "zAb"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "E22"
+      },
+      "data": {
+        "mdc": "mAi"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "E23"
+      },
+      "data": {
+        "mdc": "l"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "E23"
+      },
+      "data": {
+        "mdc": "rw"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "E24"
+      },
+      "data": {
+        "mdc": "Aby"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "E34"
+      },
+      "data": {
+        "mdc": "wn"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F4"
+      },
+      "data": {
+        "mdc": "HAt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F5"
+      },
+      "data": {
+        "mdc": "SsA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F12"
+      },
+      "data": {
+        "mdc": "wsr"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F13"
+      },
+      "data": {
+        "mdc": "wp"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F16"
+      },
+      "data": {
+        "mdc": "db"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F18"
+      },
+      "data": {
+        "mdc": "Hw"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F18"
+      },
+      "data": {
+        "mdc": "bH"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F20"
+      },
+      "data": {
+        "mdc": "ns"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F21"
+      },
+      "data": {
+        "mdc": "idn"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F21"
+      },
+      "data": {
+        "mdc": "msDr"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F21"
+      },
+      "data": {
+        "mdc": "sDm"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F21"
+      },
+      "data": {
+        "mdc": "DrD"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F22"
+      },
+      "data": {
+        "mdc": "pH"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F22"
+      },
+      "data": {
+        "mdc": "kfA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F23"
+      },
+      "data": {
+        "mdc": "xpS"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F25"
+      },
+      "data": {
+        "mdc": "wHm"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F26"
+      },
+      "data": {
+        "mdc": "Xn"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F29"
+      },
+      "data": {
+        "mdc": "sti"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F30"
+      },
+      "data": {
+        "mdc": "Sd"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F31"
+      },
+      "data": {
+        "mdc": "ms"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F32"
+      },
+      "data": {
+        "mdc": "X"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F33"
+      },
+      "data": {
+        "mdc": "sd"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F34"
+      },
+      "data": {
+        "mdc": "ib"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F35"
+      },
+      "data": {
+        "mdc": "nfr"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F36"
+      },
+      "data": {
+        "mdc": "zmA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F39"
+      },
+      "data": {
+        "mdc": "imAx"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F40"
+      },
+      "data": {
+        "mdc": "Aw"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F42"
+      },
+      "data": {
+        "mdc": "spr"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F44"
+      },
+      "data": {
+        "mdc": "iwa"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F44"
+      },
+      "data": {
+        "mdc": "isw"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F46"
+      },
+      "data": {
+        "mdc": "pXr"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "F46"
+      },
+      "data": {
+        "mdc": "qAb"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "G1"
+      },
+      "data": {
+        "mdc": "A"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "G2"
+      },
+      "data": {
+        "mdc": "AA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "G4"
+      },
+      "data": {
+        "mdc": "tyw"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "G14"
+      },
+      "data": {
+        "mdc": "mwt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "G16"
+      },
+      "data": {
+        "mdc": "nbty"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "G17"
+      },
+      "data": {
+        "mdc": "m"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "G18"
+      },
+      "data": {
+        "mdc": "mm"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "G21"
+      },
+      "data": {
+        "mdc": "nH"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "G22"
+      },
+      "data": {
+        "mdc": "Db"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "G23"
+      },
+      "data": {
+        "mdc": "rxyt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "G25"
+      },
+      "data": {
+        "mdc": "Ax"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "G27"
+      },
+      "data": {
+        "mdc": "dSr"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "G28"
+      },
+      "data": {
+        "mdc": "gm"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "G29"
+      },
+      "data": {
+        "mdc": "bA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "G32"
+      },
+      "data": {
+        "mdc": "baHi"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "G35"
+      },
+      "data": {
+        "mdc": "aq"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "G36"
+      },
+      "data": {
+        "mdc": "wr"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "G38"
+      },
+      "data": {
+        "mdc": "gb"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "G39"
+      },
+      "data": {
+        "mdc": "zA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "G40"
+      },
+      "data": {
+        "mdc": "pA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "G41"
+      },
+      "data": {
+        "mdc": "xn"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "G42"
+      },
+      "data": {
+        "mdc": "wSA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "G43"
+      },
+      "data": {
+        "mdc": "w"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "G44"
+      },
+      "data": {
+        "mdc": "ww"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "G46"
+      },
+      "data": {
+        "mdc": "mAw"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "G47"
+      },
+      "data": {
+        "mdc": "TA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "G54"
+      },
+      "data": {
+        "mdc": "snD"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "H2"
+      },
+      "data": {
+        "mdc": "wSm"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "H2"
+      },
+      "data": {
+        "mdc": "pq"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "H3"
+      },
+      "data": {
+        "mdc": "pAq"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "H4"
+      },
+      "data": {
+        "mdc": "nr"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "H6"
+      },
+      "data": {
+        "mdc": "Sw"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "I1"
+      },
+      "data": {
+        "mdc": "aSA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "I2"
+      },
+      "data": {
+        "mdc": "Styw"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "I3"
+      },
+      "data": {
+        "mdc": "mzH"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "I4"
+      },
+      "data": {
+        "mdc": "sbk"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "I5"
+      },
+      "data": {
+        "mdc": "sAq"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "I6"
+      },
+      "data": {
+        "mdc": "km"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "I8"
+      },
+      "data": {
+        "mdc": "Hfn"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "I9"
+      },
+      "data": {
+        "mdc": "f"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "I10"
+      },
+      "data": {
+        "mdc": "D"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "I11"
+      },
+      "data": {
+        "mdc": "DD"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "K1"
+      },
+      "data": {
+        "mdc": "in"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "K3"
+      },
+      "data": {
+        "mdc": "ad"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "K4"
+      },
+      "data": {
+        "mdc": "XA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "K5"
+      },
+      "data": {
+        "mdc": "bz"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "K6"
+      },
+      "data": {
+        "mdc": "nSmt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "L1"
+      },
+      "data": {
+        "mdc": "xpr"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "L2"
+      },
+      "data": {
+        "mdc": "bit"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "L7"
+      },
+      "data": {
+        "mdc": "srqt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "M1"
+      },
+      "data": {
+        "mdc": "iAm"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "M2"
+      },
+      "data": {
+        "mdc": "Hn"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "M3"
+      },
+      "data": {
+        "mdc": "xt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "M4"
+      },
+      "data": {
+        "mdc": "rnp"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "M6"
+      },
+      "data": {
+        "mdc": "tr"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "M8"
+      },
+      "data": {
+        "mdc": "SA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "M9"
+      },
+      "data": {
+        "mdc": "zSn"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "M11"
+      },
+      "data": {
+        "mdc": "wdn"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "M12"
+      },
+      "data": {
+        "mdc": "xA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "M13"
+      },
+      "data": {
+        "mdc": "wAD"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "M16"
+      },
+      "data": {
+        "mdc": "HA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "M17"
+      },
+      "data": {
+        "mdc": "i"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "M18"
+      },
+      "data": {
+        "mdc": "ii"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "M20"
+      },
+      "data": {
+        "mdc": "sxt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "M21"
+      },
+      "data": {
+        "mdc": "sm"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "M23"
+      },
+      "data": {
+        "mdc": "sw"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "M24"
+      },
+      "data": {
+        "mdc": "rsw"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "M26"
+      },
+      "data": {
+        "mdc": "Sma"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "M29"
+      },
+      "data": {
+        "mdc": "nDm"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "M30"
+      },
+      "data": {
+        "mdc": "bnr"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "M34"
+      },
+      "data": {
+        "mdc": "bdt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "M36"
+      },
+      "data": {
+        "mdc": "Dr"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "M40"
+      },
+      "data": {
+        "mdc": "iz"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "N1"
+      },
+      "data": {
+        "mdc": "pt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "N4"
+      },
+      "data": {
+        "mdc": "iAdt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "N4"
+      },
+      "data": {
+        "mdc": "idt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "N5"
+      },
+      "data": {
+        "mdc": "ra"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "N5"
+      },
+      "data": {
+        "mdc": "zw"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "N5"
+      },
+      "data": {
+        "mdc": "hrw"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "N8"
+      },
+      "data": {
+        "mdc": "Hnmmt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "N9"
+      },
+      "data": {
+        "mdc": "pzD"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "N11"
+      },
+      "data": {
+        "mdc": "Abd"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "N11"
+      },
+      "data": {
+        "mdc": "iaH"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "N14"
+      },
+      "data": {
+        "mdc": "sbA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "N14"
+      },
+      "data": {
+        "mdc": "dwA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "N15"
+      },
+      "data": {
+        "mdc": "dwAt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "N16"
+      },
+      "data": {
+        "mdc": "tA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "N18"
+      },
+      "data": {
+        "mdc": "iw"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "N20"
+      },
+      "data": {
+        "mdc": "wDb"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "N24"
+      },
+      "data": {
+        "mdc": "spAt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "N25"
+      },
+      "data": {
+        "mdc": "xAst"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "N26"
+      },
+      "data": {
+        "mdc": "Dw"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "N27"
+      },
+      "data": {
+        "mdc": "Axt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "N28"
+      },
+      "data": {
+        "mdc": "xa"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "N29"
+      },
+      "data": {
+        "mdc": "q"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "N30"
+      },
+      "data": {
+        "mdc": "iAt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "N35"
+      },
+      "data": {
+        "mdc": "n"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "N35a"
+      },
+      "data": {
+        "mdc": "mw"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "N37"
+      },
+      "data": {
+        "mdc": "S"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "N40"
+      },
+      "data": {
+        "mdc": "Sm"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "N41"
+      },
+      "data": {
+        "mdc": "id"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "O1"
+      },
+      "data": {
+        "mdc": "pr"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "O4"
+      },
+      "data": {
+        "mdc": "h"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "O6"
+      },
+      "data": {
+        "mdc": "Hwt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "O11"
+      },
+      "data": {
+        "mdc": "aH"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "O15"
+      },
+      "data": {
+        "mdc": "wsxt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "O18"
+      },
+      "data": {
+        "mdc": "kAr"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "O22"
+      },
+      "data": {
+        "mdc": "zH"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "O25"
+      },
+      "data": {
+        "mdc": "txn"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "O28"
+      },
+      "data": {
+        "mdc": "iwn"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "O29"
+      },
+      "data": {
+        "mdc": "aA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "O30"
+      },
+      "data": {
+        "mdc": "zxnt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "O34"
+      },
+      "data": {
+        "mdc": "z"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "O35"
+      },
+      "data": {
+        "mdc": "zb"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "O36"
+      },
+      "data": {
+        "mdc": "inb"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "O42"
+      },
+      "data": {
+        "mdc": "Szp"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "O45"
+      },
+      "data": {
+        "mdc": "ipt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "O47"
+      },
+      "data": {
+        "mdc": "nxn"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "O49"
+      },
+      "data": {
+        "mdc": "niwt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "O50"
+      },
+      "data": {
+        "mdc": "zp"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "O51"
+      },
+      "data": {
+        "mdc": "Snwt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "P4"
+      },
+      "data": {
+        "mdc": "wHa"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "P5"
+      },
+      "data": {
+        "mdc": "nfw"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "P5"
+      },
+      "data": {
+        "mdc": "TAw"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "P6"
+      },
+      "data": {
+        "mdc": "aHa"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "P8"
+      },
+      "data": {
+        "mdc": "xrw"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "Q1"
+      },
+      "data": {
+        "mdc": "st"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "Q2"
+      },
+      "data": {
+        "mdc": "wz"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "Q3"
+      },
+      "data": {
+        "mdc": "p"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "Q6"
+      },
+      "data": {
+        "mdc": "qrsw"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "R1"
+      },
+      "data": {
+        "mdc": "xAwt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "R1"
+      },
+      "data": {
+        "mdc": "xAt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "R4"
+      },
+      "data": {
+        "mdc": "Htp"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "R5"
+      },
+      "data": {
+        "mdc": "kAp"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "R5"
+      },
+      "data": {
+        "mdc": "kp"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "R7"
+      },
+      "data": {
+        "mdc": "snTr"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "R8"
+      },
+      "data": {
+        "mdc": "nTr"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "R9"
+      },
+      "data": {
+        "mdc": "bd"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "R11"
+      },
+      "data": {
+        "mdc": "dd"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "R11"
+      },
+      "data": {
+        "mdc": "Dd"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "R14"
+      },
+      "data": {
+        "mdc": "imnt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "R15"
+      },
+      "data": {
+        "mdc": "iAb"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "R16"
+      },
+      "data": {
+        "mdc": "wx"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "R22"
+      },
+      "data": {
+        "mdc": "xm"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S1"
+      },
+      "data": {
+        "mdc": "HDt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S3"
+      },
+      "data": {
+        "mdc": "dSrt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S3"
+      },
+      "data": {
+        "mdc": "N"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S6"
+      },
+      "data": {
+        "mdc": "sxmty"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S7"
+      },
+      "data": {
+        "mdc": "xprS"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S8"
+      },
+      "data": {
+        "mdc": "Atf"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S9"
+      },
+      "data": {
+        "mdc": "Swty"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S10"
+      },
+      "data": {
+        "mdc": "mDH"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S11"
+      },
+      "data": {
+        "mdc": "wsx"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S12"
+      },
+      "data": {
+        "mdc": "nbw"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S15"
+      },
+      "data": {
+        "mdc": "tHn"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S15"
+      },
+      "data": {
+        "mdc": "THn"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S18"
+      },
+      "data": {
+        "mdc": "mnit"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S19"
+      },
+      "data": {
+        "mdc": "sDAw"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S20"
+      },
+      "data": {
+        "mdc": "xtm"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S22"
+      },
+      "data": {
+        "mdc": "sT"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S23"
+      },
+      "data": {
+        "mdc": "dmD"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S24"
+      },
+      "data": {
+        "mdc": "Tz"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S26"
+      },
+      "data": {
+        "mdc": "Sndyt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S27"
+      },
+      "data": {
+        "mdc": "mnxt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S29"
+      },
+      "data": {
+        "mdc": "s"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S30"
+      },
+      "data": {
+        "mdc": "sf"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S32"
+      },
+      "data": {
+        "mdc": "siA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S33"
+      },
+      "data": {
+        "mdc": "Tb"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S34"
+      },
+      "data": {
+        "mdc": "anx"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S35"
+      },
+      "data": {
+        "mdc": "Swt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S37"
+      },
+      "data": {
+        "mdc": "xw"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S38"
+      },
+      "data": {
+        "mdc": "HqA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S39"
+      },
+      "data": {
+        "mdc": "awt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S40"
+      },
+      "data": {
+        "mdc": "wAs"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S41"
+      },
+      "data": {
+        "mdc": "Dam"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S42"
+      },
+      "data": {
+        "mdc": "abA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S42"
+      },
+      "data": {
+        "mdc": "xrp"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S42"
+      },
+      "data": {
+        "mdc": "sxm"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S43"
+      },
+      "data": {
+        "mdc": "md"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S44"
+      },
+      "data": {
+        "mdc": "Ams"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "S45"
+      },
+      "data": {
+        "mdc": "nxxw"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "T3"
+      },
+      "data": {
+        "mdc": "HD"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "T6"
+      },
+      "data": {
+        "mdc": "HDD"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "T9"
+      },
+      "data": {
+        "mdc": "pd"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "T10"
+      },
+      "data": {
+        "mdc": "pD"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "T11"
+      },
+      "data": {
+        "mdc": "zin"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "T11"
+      },
+      "data": {
+        "mdc": "zwn"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "T11"
+      },
+      "data": {
+        "mdc": "sXr"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "T12"
+      },
+      "data": {
+        "mdc": "Ai"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "T12"
+      },
+      "data": {
+        "mdc": "Ar"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "T12"
+      },
+      "data": {
+        "mdc": "rwd"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "T12"
+      },
+      "data": {
+        "mdc": "rwD"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "T13"
+      },
+      "data": {
+        "mdc": "rs"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "T14"
+      },
+      "data": {
+        "mdc": "qmA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "T17"
+      },
+      "data": {
+        "mdc": "wrrt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "T18"
+      },
+      "data": {
+        "mdc": "Sms"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "T19"
+      },
+      "data": {
+        "mdc": "qs"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "T22"
+      },
+      "data": {
+        "mdc": "sn"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "T24"
+      },
+      "data": {
+        "mdc": "iH"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "T25"
+      },
+      "data": {
+        "mdc": "DbA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "T28"
+      },
+      "data": {
+        "mdc": "Xr"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "T29"
+      },
+      "data": {
+        "mdc": "nmt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "T31"
+      },
+      "data": {
+        "mdc": "sSm"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "T34"
+      },
+      "data": {
+        "mdc": "nm"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "U1"
+      },
+      "data": {
+        "mdc": "mA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "U6"
+      },
+      "data": {
+        "mdc": "mr"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "U10"
+      },
+      "data": {
+        "mdc": "it"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "U11"
+      },
+      "data": {
+        "mdc": "HqAt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "U13"
+      },
+      "data": {
+        "mdc": "hb"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "U13"
+      },
+      "data": {
+        "mdc": "Sna"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "U15"
+      },
+      "data": {
+        "mdc": "tm"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "U16"
+      },
+      "data": {
+        "mdc": "biA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "U17"
+      },
+      "data": {
+        "mdc": "grg"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "U21"
+      },
+      "data": {
+        "mdc": "stp"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "U22"
+      },
+      "data": {
+        "mdc": "mnx"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "U23"
+      },
+      "data": {
+        "mdc": "Ab"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "U24"
+      },
+      "data": {
+        "mdc": "Hmt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "U26"
+      },
+      "data": {
+        "mdc": "wbA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "U28"
+      },
+      "data": {
+        "mdc": "DA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "U31"
+      },
+      "data": {
+        "mdc": "rtH"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "U32"
+      },
+      "data": {
+        "mdc": "zmn"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "U33"
+      },
+      "data": {
+        "mdc": "ti"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "U34"
+      },
+      "data": {
+        "mdc": "xsf"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "U36"
+      },
+      "data": {
+        "mdc": "Hm"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "U38"
+      },
+      "data": {
+        "mdc": "mxAt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "V1"
+      },
+      "data": {
+        "mdc": "100"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "V2"
+      },
+      "data": {
+        "mdc": "sTA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "V3"
+      },
+      "data": {
+        "mdc": "sTAw"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "V4"
+      },
+      "data": {
+        "mdc": "wA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "V5"
+      },
+      "data": {
+        "mdc": "snT"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "V6"
+      },
+      "data": {
+        "mdc": "Ss"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "V7"
+      },
+      "data": {
+        "mdc": "Sn"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "V12"
+      },
+      "data": {
+        "mdc": "arq"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "V13"
+      },
+      "data": {
+        "mdc": "T"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "V15"
+      },
+      "data": {
+        "mdc": "iTi"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "V19"
+      },
+      "data": {
+        "mdc": "mDt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "V19"
+      },
+      "data": {
+        "mdc": "XAr"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "V19"
+      },
+      "data": {
+        "mdc": "TmA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "V20"
+      },
+      "data": {
+        "mdc": "10"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "V20"
+      },
+      "data": {
+        "mdc": "mD"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "V22"
+      },
+      "data": {
+        "mdc": "mH"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "V24"
+      },
+      "data": {
+        "mdc": "wD"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "V26"
+      },
+      "data": {
+        "mdc": "aD"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "V28"
+      },
+      "data": {
+        "mdc": "H"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "V29"
+      },
+      "data": {
+        "mdc": "wAH"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "V29"
+      },
+      "data": {
+        "mdc": "sk"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "V30"
+      },
+      "data": {
+        "mdc": "nb"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "V31"
+      },
+      "data": {
+        "mdc": "k"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "V32"
+      },
+      "data": {
+        "mdc": "msn"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "V33"
+      },
+      "data": {
+        "mdc": "sSr"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "V37"
+      },
+      "data": {
+        "mdc": "idr"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "W2"
+      },
+      "data": {
+        "mdc": "bAs"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "W3"
+      },
+      "data": {
+        "mdc": "Hb"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "W9"
+      },
+      "data": {
+        "mdc": "Xnm"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "W10"
+      },
+      "data": {
+        "mdc": "iab"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "W11"
+      },
+      "data": {
+        "mdc": "nzt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "W11"
+      },
+      "data": {
+        "mdc": "g"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "W14"
+      },
+      "data": {
+        "mdc": "Hz"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "W17"
+      },
+      "data": {
+        "mdc": "xnt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "W19"
+      },
+      "data": {
+        "mdc": "mi"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "W22"
+      },
+      "data": {
+        "mdc": "Hnqt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "W24"
+      },
+      "data": {
+        "mdc": "nw"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "W25"
+      },
+      "data": {
+        "mdc": "ini"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "X1"
+      },
+      "data": {
+        "mdc": "t"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "X8"
+      },
+      "data": {
+        "mdc": "rdi"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "X8"
+      },
+      "data": {
+        "mdc": "di"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "Y1"
+      },
+      "data": {
+        "mdc": "mDAt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "Y3"
+      },
+      "data": {
+        "mdc": "mnhd"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "Y3"
+      },
+      "data": {
+        "mdc": "zS"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "Y5"
+      },
+      "data": {
+        "mdc": "mn"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "Y6"
+      },
+      "data": {
+        "mdc": "ibA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "Y8"
+      },
+      "data": {
+        "mdc": "zSSt"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "Z4"
+      },
+      "data": {
+        "mdc": "y"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "Z7"
+      },
+      "data": {
+        "mdc": "W"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "Z11"
+      },
+      "data": {
+        "mdc": "imi"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "Aa1"
+      },
+      "data": {
+        "mdc": "x"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "Aa5"
+      },
+      "data": {
+        "mdc": "Hp"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "Aa8"
+      },
+      "data": {
+        "mdc": "qn"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "Aa11"
+      },
+      "data": {
+        "mdc": "mAa"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "Aa13"
+      },
+      "data": {
+        "mdc": "im"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "Aa13"
+      },
+      "data": {
+        "mdc": "gs"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "Aa13"
+      },
+      "data": {
+        "mdc": "M"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "Aa17"
+      },
+      "data": {
+        "mdc": "sA"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "Aa20"
+      },
+      "data": {
+        "mdc": "apr"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "Aa21"
+      },
+      "data": {
+        "mdc": "wDa"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "Aa27"
+      },
+      "data": {
+        "mdc": "nD"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "Aa28"
+      },
+      "data": {
+        "mdc": "qd"
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "gardiner": "Aa30"
+      },
+      "data": {
+        "mdc": "Xkr"
+      }
+    }
+  ]
+}

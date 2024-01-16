@@ -1,0 +1,3127 @@
+{
+  "description": "Tag hieroglyphs found in Maria Carmella Betrò “Hieroglyphics: The Writings of Ancient Egypt” as betro",
+  "changes": [
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓀀"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓀁"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓀃"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓀆"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓀊"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓀎"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓀏"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓀐"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓀔"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓀗"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓀙"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓀚"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓀞"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓀠"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓀨"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓀭"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓀯"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓀸"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓀻"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓀾"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓁀"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓁐"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓁑"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓁒"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓁔"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓁚"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓁠"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓁢"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓁤"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓁥"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓁦"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓁨"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓁩"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓁭"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓁰"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓁶"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓁷"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓁸"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓁹"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓂀"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓂉"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓂋"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓂓"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓂜"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓂞"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓂦"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓂸"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓃒"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓃗"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓃘"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓃙"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓃝"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓃟"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓃠"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓃣"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓃥"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓃧"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓃭"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓃯"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓃰"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓃱"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓃴"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓃷"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓃹"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓄂"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓄋"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓄗"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓄙"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓄣"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓄤"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓄿"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓅃"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓅋"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓅐"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓅑"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓅒"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓅓"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓅘"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓅙"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓅚"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓅝"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓅡"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓅣"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓅭"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓅾"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓆄"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓆇"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓆈"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓆊"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓆋"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓆏"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓆑"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓆓"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓆗"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓆛"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓆣"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓆤"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓆨"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓆭"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓆰"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓆱"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓆳"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓆷"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓆸"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓆻"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓆼"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓇅"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓇉"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓇏"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓇓"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓇗"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓇠"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓇣"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓇭"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓇯"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓇳"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓇶"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓇹"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓇼"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓇽"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓇾"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓈀"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓈅"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓈈"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓈉"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓈋"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓈌"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓈍"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓈐"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓈔"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓈖"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓈗"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓈘"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓈙"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓈞"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓉐"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓉔"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓉗"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓉠"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓉥"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓉬"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓉭"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓉯"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓉶"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓉸"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓉹"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓉺"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓉿"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓊃"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓊅"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓊋"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓊌"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓊍"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓊖"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓊗"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓊚"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓊛"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓊞"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓊠"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓊡"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓊨"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓊪"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓊫"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓊬"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓊮"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓊵"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓊸"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓊹"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓊽"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓋀"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓋁"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓋇"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓋉"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓋋"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓋑"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓋔"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓋞"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓋣"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓋧"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓋩"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓋴"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓋸"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓋹"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓋺"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓌇"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓌉"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓌓"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓌙"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓌝"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓌡"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓌤"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓌦"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓌪"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓌳"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓌸"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓍁"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓍃"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓍄"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓍋"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓍍"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓍑"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓍔"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓍙"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓍝"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓍬"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓍯"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓍱"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓍷"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓎛"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓎟"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓎤"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓎯"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓎳"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓎿"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓏊"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓏌"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓏎"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓏏"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓏙"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓏛"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓏞"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓏢"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    },
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "match": {
+        "hieroglyph": "𓏣"
+      },
+      "data": {
+        "tags": [
+          "betro"
+        ]
+      }
+    }
+  ]
+}

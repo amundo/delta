@@ -1,0 +1,14 @@
+{
+  "description": "Add empty tags array",
+  "changes": [
+    {
+      "operation": "update",
+      "path": [
+        "hieroglyphs"
+      ],
+      "data": {
+        "tags": []
+      }
+    }
+  ]
+}
